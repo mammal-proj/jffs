@@ -18,5 +18,6 @@ RoxygenNote: 7.2.0
 Depends: 
     R (>= 2.10)
 LazyData: true
-URL: https://github.com/mammal-proj/jffs
+URL: https://github.com/mammal-proj/jffs,
+    https://mammal-proj.github.io/jffs/
 BugReports: https://github.com/mammal-proj/jffs/issues
