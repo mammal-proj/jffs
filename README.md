@@ -1,7 +1,7 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-# jffs
+# Lobos marinos de Juan Fernández
 
 <!-- badges: start -->
 <!-- badges: end -->

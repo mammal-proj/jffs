@@ -13,7 +13,7 @@ knitr::opts_chunk$set(
 )
 ```
 
-# jffs
+# Lobos marinos de Juan Fernández
 
 <!-- badges: start -->
 <!-- badges: end -->
