@@ -30,4 +30,4 @@
 #'  - \code{status}:...
 #'
 #' @source Under construction
-"sealions"
+"seals"

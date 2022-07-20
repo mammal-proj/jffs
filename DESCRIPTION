@@ -3,7 +3,7 @@ Title: Mamíferos de la isla Juan Fernández
 Version: 0.0.0.9000
 Authors@R: 
     c(
-      person("Matías", "Castillo Aguilar", , "m99castillo@gmail.com", 
+      person("Matías", "Castillo-Aguilar", , "m99castillo@gmail.com", 
       role = c("aut", "cre"), comment = c(ORCID = "0000-0001-7291-247X")),
       person("Renato", "Borras-Chavez", , "rborras@gmail.com", 
       role = c("aut"), comment = c(ORCID = "0000-0002-6415-2121")),
@@ -21,3 +21,5 @@ LazyData: true
 URL: https://github.com/mammal-proj/jffs,
     https://mammal-proj.github.io/jffs/
 BugReports: https://github.com/mammal-proj/jffs/issues
+Imports: 
+    data.table

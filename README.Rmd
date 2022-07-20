@@ -28,3 +28,4 @@ Para instalar la última versión de los datos, diríjase a su consola de `R` y 
 # install.packages("remotes")
 remotes::install_github("mammal-proj/jffs")
 ```
+
