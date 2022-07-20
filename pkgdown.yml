@@ -1,8 +1,8 @@
 pandoc: 2.14.2
-pkgdown: 2.0.5
+pkgdown: 2.0.6
 pkgdown_sha: ~
 articles: {}
-last_built: 2022-07-11T22:19Z
+last_built: 2022-07-20T00:59Z
 urls:
   reference: https://mammal-proj.github.io/jffs/reference
   article: https://mammal-proj.github.io/jffs/articles
